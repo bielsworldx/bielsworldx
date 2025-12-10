@@ -1,24 +1,72 @@
-### Bem-vindo(a) ao meu perfil! ✨
+# Bem-vindo(a) ao meu perfil! 💫
 
- <div>
-   <a href="https://github.com/bielsworldx">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bielsworldx&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielsworldx&layout=compact&langs_count=6&theme=neon"/>
-   <a href="https://github.com/bielsworldx/bielsworldx" target="_blank"><img height="122em" src="https://github-readme-stats.vercel.app/api/pin/?username=bielsworldx&repo=Mario-com-IA&layout=compact&langs_count=6&theme=codeSTACKr" target="_blank"/></a>
-   <a href="https://github.com/bielsworldx/jogo-da-velha-DIO" target="_blank"><img height="122em" src="https://github-readme-stats.vercel.app/api/pin/?username=bielsworldx&repo=Derrote-o-Inimigo&layout=compact&langs_count=6&theme=neon" target="_blank"/></a>
-   <a href="https://github.com/bielsworldx/FanpageZatanna" target="_blank"><img height="138em" src="https://github-readme-stats.vercel.app/api/pin/?username=bielsworldx&repo=FanpageZatanna&layout=compact&langs_count=6&theme=codeSTACKr" target="_blank"/></a>
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bielsworldx&show_icons=true&theme=radical" />
+  &nbsp;&nbsp;
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bielsworldx&layout=compact&theme=tokyonight" />
 
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+---
+
+## 🎮 Repositórios em destaque
+
+<div align="center">
+
+  <a href="https://github.com/bielsworldx/Ladrao-de-Diamantes">
+    <img height="300" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=bielsworldx&repo=Ladrao-de-Diamantes&theme=radical" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://github.com/bielsworldx/Fuga-da-Cabana">
+    <img height="300" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=bielsworldx&repo=Fuga-da-Cabana&theme=tokyonight" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://github.com/bielsworldx/Derrote-o-Inimigo">
+    <img height="300" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=bielsworldx&repo=Derrote-o-Inimigo&theme=radical" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://github.com/bielsworldx/FanpageZatanna">
+    <img height="300" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=bielsworldx&repo=FanpageZatanna&theme=tokyonight" />
+  </a>
+
 </div>
- 
- <br>
- 
-  ### Pode me encontrar nas redes:
- 
-<div> 
-  <a href = "mailto:joao.gabriel.xp2011@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+---
+
+## 🧠 Tecnologias que uso
+
+<div align="center">
+
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  &nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  &nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  &nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  &nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  &nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  &nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
+</div>
+
+---
+
+## 📫 Pode me encontrar nas redes
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jg.andrade1609@gmail.com)
+
 </div>
